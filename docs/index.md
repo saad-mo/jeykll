@@ -1,9 +1,10 @@
 ---
-title: This is the main page - UPDATED
+title: This heading has been updated
 keywords: sample homepage
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: index.html
+toc: false
 summary: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque, totam labore est accusamus ut atque voluptatum odit doloremque dolores suscipit ad reprehenderit vero pariatur debitis laboriosam enim soluta vel.
 ---
 

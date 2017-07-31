@@ -3,9 +3,11 @@
 topnav:
 - title: Topnav
   items:
-    - title: Link 2
+    - title: Link 1
       url: /
     - title: Link 2
+      url: /news    
+    - title: Link 3
       url: /news
 
 #Topnav dropdowns
