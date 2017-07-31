@@ -1,5 +1,5 @@
 ---
-title: This is the main page
+title: This is the main page - UPDATED
 keywords: sample homepage
 tags: [getting_started]
 sidebar: home_sidebar
